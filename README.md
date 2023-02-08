@@ -7,7 +7,7 @@
 - [Recognotion](#recognotion)
 - [Synthesis](#synthesis)
 - [Research papers](#research-papers)
-- [Blog posts]
+- [Blog posts](#blog-posts)
 - [Books](#books)
 
 ## Filtering / Denoising
