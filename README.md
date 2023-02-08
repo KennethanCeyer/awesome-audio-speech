@@ -63,10 +63,14 @@
 - [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499)
 - [ClariNet: Parallel Wave Generation in End-to-End Text-to-Speech](https://openreview.net/forum?id=HklY120cYm)
 - [Universal Sound Separation](https://arxiv.org/abs/1905.03330)
+- [Speech Recognition with Deep Recurrent Neural Networks](https://arxiv.org/abs/1303.5778)
 
 ## Blog posts
 
+- [Introducing Whisper](https://openai.com/blog/whisper/)
 - [Tacotron 2: Generating Human-like Speech from Text](https://ai.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html)
+- [WaveNet: A generative model for raw audio](https://www.deepmind.com/blog/wavenet-a-generative-model-for-raw-audio)
+- [Looking to Listen: Audio-Visual Speech Separation](https://ai.googleblog.com/2018/04/looking-to-listen-audio-visual-speech.html)
 
 ## Books
 
