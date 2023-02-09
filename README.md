@@ -6,6 +6,7 @@
 - [Separation](#separation)
 - [Recognotion](#recognotion)
 - [Synthesis](#synthesis)
+- [Open source projects](#open-source-projects)
 - [Research papers](#research-papers)
 - [Blog posts](#blog-posts)
 - [Books](#books)
@@ -57,6 +58,15 @@
 - FastSpeech (AI Speech Lab, ByteDance)
 - Transformer-TTS (IBM Research)
 - Real-Time Voice Cloning (Corentin Jemine)
+
+## Open source projects
+
+- [SoX](https://github.com/soxhub/sox) -  A cross-platform audio processing tool that provides a command-line interface for converting, editing, and playing audio files. 
+- [librosa](https://github.com/librosa/librosa) - A library for audio and music analysis in Python, providing functions for computing features, such as MFCCs, chroma, and beat-related features. 
+- [Audacity](https://github.com/audacity/audacity) - A cross-platform audio editor and recorder that supports many formats and provides a user-friendly interface. 
+- [PulseAudio](https://github.com/pulseaudio/pulseaudio) - A cross-platform sound server for Linux, Unix, and Windows systems that provides sound server functionality to other applications.
+- [PyTorch Audio](https://github.com/pytorch/audio) -  A library that provides a PyTorch-based implementation of common audio functions, such as spectrogram computation, audio pre-processing, and spectrogram-based features.
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A speech-to-text engine developed by Mozilla Research.
 
 ## Research papers
 
