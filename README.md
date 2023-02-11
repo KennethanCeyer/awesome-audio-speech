@@ -13,17 +13,17 @@
 
 ## Filtering / Denoising
 
-- Fast Fourier Transform (FFT)
-- Short-Time Fourier Transform (STFT)
-- Adaptive filtering
-- Least Mean Squares (LMS) algorithm
-- Kalman filter
-- Wiener filter
-- Spectral subtraction
-- Blind source separation
-- Non-negative matrix factorization (NMF)
-- Infinite Impulse Response (IIR) filter
-- Finite Impulse Response (FIR) filter
+- [Fast Fourier Transform (FFT)](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
+- [Short-Time Fourier Transform (STFT)](https://en.wikipedia.org/wiki/Short-time_Fourier_transform)
+- [Adaptive filtering](https://en.wikipedia.org/wiki/Adaptive_filter)
+- [Least Mean Squares (LMS) algorithm](https://en.wikipedia.org/wiki/Least_mean_squares_filter)
+- [Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter)
+- [Wiener filter](https://en.wikipedia.org/wiki/Wiener_filter)
+- [Spectral subtraction](https://github.com/shun60s/spectral-subtraction)
+- [Blind source separation (BSS)](https://en.wikipedia.org/wiki/Signal_separation)
+- [Non-negative matrix factorization (NMF)](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization)
+- [Infinite Impulse Response (IIR) filter](https://en.wikipedia.org/wiki/Infinite_impulse_response)
+- [Finite Impulse Response (FIR) filter](https://en.wikipedia.org/wiki/Finite_impulse_response)
 
 ## Separation
 
