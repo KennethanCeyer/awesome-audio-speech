@@ -1,4 +1,8 @@
-# Awesome DSP [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+<p align="center"><img src="./logo.png" alt="awesome-audio-speech" /></p>
+
+<h1 align="center">Awesome Audio / Speech [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)</h1>
+<p align="center">Awesome list about audio, speech and DSP(Digital signal processing)</p>
+
 
 ## Cotnents
 
