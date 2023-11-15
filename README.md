@@ -1,4 +1,4 @@
-<p align="center"><img src="./logo.png" alt="awesome-audio-speech" /></p>
+<p align="center"><img width="280" src="./logo.png" alt="awesome-audio-speech" /></p>
 
 <h1 align="center">Awesome Audio / Speech <a href="https://github.com/sindresorhus/awesome" target="_blank"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a></h1>
 <p align="center">Awesome list about audio, speech and DSP(Digital signal processing)</p>
